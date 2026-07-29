@@ -614,9 +614,9 @@ Certified in using Claude and Claude Code for AI-assisted development, coding wo
 
 Academic background from [COMSATS University Islamabad](https://www.comsats.edu.pk/).
 
-* Degree: `ADD-YOUR-DEGREE-TITLE`
-* Field of study: `ADD-YOUR-FIELD`
-* Graduation year: `ADD-YOUR-GRADUATION-YEAR`
+* Degree: `Master of Computer Science`
+* Field of study: `Software Sngineering`
+* Graduation year: `2019`
 
 ---
 
@@ -679,7 +679,7 @@ Academic background from [COMSATS University Islamabad](https://www.comsats.edu.
 * 🌐 **Website:** [theperfectsol.com](https://theperfectsol.com)
 * 💻 **GitHub:** [github.com/MsCTN](https://github.com/MsCTN)
 * 🤖 **Automation Portfolio:** [n8n AI Automations](https://github.com/MsCTN/n8n-ai-automations)
-* 💼 **Fiverr:** [fiverr.com/msdctn](https://www.fiverr.com/msdctn?public_mode=true)
+* 💼 **Fiverr:** [View Fiverr Profile](https://www.fiverr.com/msdctn?public_mode=true)
 * 💼 **Upwork:** [View Upwork Profile](https://upwork.com/freelancers/theperfectsoldotcom)
 * 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-siddique-878593159/)
 * 📧 **Email:** [ceo@theperfectsol.com](mailto:ceo@theperfectsol.com)
