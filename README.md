@@ -6,30 +6,9 @@ Full-stack developer and AI/CRM automation specialist with **7+ years of softwar
 
 Experienced in designing production-ready CRM platforms, SaaS applications, mobile apps, AI agents, RAG systems, API integrations and business-process automations.
 
-Currently working as the **CEO of [The Perfect Solutions](https://theperfectsol.com)**, helping businesses replace repetitive manual processes with scalable software and intelligent automation.
-
 ---
 
 ##  Professional Experience
-
-### CEO & Full-Stack Developer
-
-**[The Perfect Solutions](https://theperfectsol.com)**
-
-Leading the development of CRM platforms, SaaS products, AI assistants, workflow automations, web applications and mobile solutions.
-
-**Key responsibilities:**
-
-* Planning and architecting web, mobile, CRM and automation projects
-* Developing full-stack SaaS and business applications
-* Building custom CRM modules and business workflows
-* Integrating third-party APIs, payment gateways and communication platforms
-* Developing AI agents, RAG assistants and automation pipelines
-* Managing deployment, hosting, databases and production infrastructure
-* Communicating with clients and converting business requirements into technical solutions
-* Maintaining and scaling existing platforms
-
----
 
 ### AI Workflow Developer
 
@@ -676,13 +655,10 @@ Academic background from [COMSATS University Islamabad](https://www.comsats.edu.
 
 ### Connect With Me
 
-* 🌐 **Website:** [theperfectsol.com](https://theperfectsol.com)
 * 💻 **GitHub:** [github.com/MsCTN](https://github.com/MsCTN)
 * 🤖 **Automation Portfolio:** [n8n AI Automations](https://github.com/MsCTN/n8n-ai-automations)
-* 💼 **Fiverr:** [View Fiverr Profile](https://www.fiverr.com/msdctn?public_mode=true)
-* 💼 **Upwork:** [View Upwork Profile](https://upwork.com/freelancers/theperfectsoldotcom)
 * 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-siddique-878593159/)
-* 📧 **Email:** [ceo@theperfectsol.com](mailto:ceo@theperfectsol.com)
+* 📧 **Email:** [mohammadsiddiquemadni@gmail.com](mailto:mohammadsiddiquemadni@gmail.com)
 
 ---
 
